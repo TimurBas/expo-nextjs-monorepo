@@ -15,7 +15,7 @@
   "dependencies": {
     "@acme/auth": "workspace:*",
     "@better-auth/expo": "^1.2.12",
-    "@expo/html-elements": "^0.4.2",
+    "@expo/html-elements": "^0.13.7",
     "@expo/vector-icons": "^14.1.0",
     "@gluestack-ui/icon": "^0.1.27",
     "@gluestack-ui/image": "^0.1.17",
