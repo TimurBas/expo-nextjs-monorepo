@@ -10,9 +10,9 @@
   "devDependencies": {
     "@acme/eslint": "workspace:*",
     "@acme/typescript": "workspace:*",
-    "@types/node": "^22.19.1",
-    "@types/react": "~19.0.14",
-    "@types/react-dom": "~19.0.6",
+    "@types/node": "^24.10.1",
+    "@types/react": "~19.2.7",
+    "@types/react-dom": "~19.2.3",
     "eslint": "^9.39.1",
     "typescript": "5.9.3"
   },
@@ -22,7 +22,7 @@
     "@radix-ui/react-slot": "^1.2.4",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "lucide-react": "^0.525.0",
+    "lucide-react": "^0.555.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "tailwind-merge": "^3.4.0",
